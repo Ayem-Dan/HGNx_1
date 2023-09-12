@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj": {}
+    "C:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj": {
+    "C:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj",
         "projectName": "Stage-One",
-        "projectPath": "c:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj",
+        "projectPath": "C:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\Stage-One.csproj",
         "packagesPath": "C:\\Users\\Daniel M\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\obj\\",
+        "outputPath": "C:\\Users\\Daniel M\\source\\repos\\Project\\HNGx\\Stage-One\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel M\\AppData\\Roaming\\NuGet\\NuGet.Config"

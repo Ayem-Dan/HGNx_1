@@ -9,7 +9,7 @@ public class Controller : ControllerBase
    
 
     [HttpGet("api")]
-    public IActionResult GetInfo(string slack_name, string track)
+    public IActionResult GetInfo(string slack_name = "Daniel", string track = "Backend")
     {
         // Get the current day of the week
         var currentDay = DateTime.UtcNow.ToString("dddd");
@@ -21,8 +21,8 @@ public class Controller : ControllerBase
             current_day = currentDay,
             utc_time = utcTime,
             track,
-            github_file_url = "https://github.com/Ayem-Dan/repo.cs",
-            github_repo_url = "https://github.com/Ayem-Dan/repo",
+            github_file_url = "https://github.com/Ayem-Dan/HGNx_1/blob/master/Stage-One/Program.cs",
+            github_repo_url = "https://github.com/Ayem-Dan/HGNx_1",
             status_code = 200
         };
 
